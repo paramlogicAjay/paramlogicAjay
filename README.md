@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paramlogicAjay(Aju)
+- 👋 Hi, I’m Ajay Wankhade(Aju)
 - Passionated about learning new age techonolgies
 - 🔭 I’m currently working on Creating and building Rest Api projects
 - Work with ReactJs,nextJs(typescript),nodeJs,mongoDb
